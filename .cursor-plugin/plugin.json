@@ -1,0 +1,15 @@
+{
+  "name": "creator-sponsor",
+  "displayName": "Creator Sponsor",
+  "version": "1.0.0",
+  "description": "A sponsorship marketplace for X creators. Analyse a creator's niche, audience and engagement, estimate price-per-post with a transparent formula, match brand briefs to creators, run deals, verify the sponsored post (including #ad disclosure) and keep a payout ledger. Every change needs your confirmation. Never posts and never moves money.",
+  "author": { "name": "Paris Piotis", "url": "https://github.com/ppiotis" },
+  "homepage": "https://github.com/ppiotis/creator-sponsor-mcp",
+  "repository": "https://github.com/ppiotis/creator-sponsor-mcp",
+  "license": "MIT",
+  "logo": "logo.svg",
+  "keywords": ["x", "twitter", "creators", "sponsorship", "influencer", "brand deals", "marketplace"],
+  "category": "marketing",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

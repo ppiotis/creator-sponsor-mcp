@@ -1,0 +1,693 @@
+{
+  "users": {
+    "devdana": {
+      "profile": {
+        "id": "1001",
+        "name": "Dana Dev",
+        "description": "developer building ai agents and open source tools. typescript, python, robots.",
+        "location": "San Francisco",
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 48000,
+          "following_count": 900,
+          "tweet_count": 12000
+        }
+      },
+      "posts": [
+        {
+          "id": "1900000000000000100",
+          "text": "shipped a new coding agent demo today, the api is wild",
+          "created_at": "2026-09-01T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 120,
+            "retweet_count": 14,
+            "reply_count": 9,
+            "quote_count": 2,
+            "impression_count": 9000
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000101",
+          "text": "open source llm benchmarks thread 🧵 1/",
+          "created_at": "2026-09-03T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 157,
+            "retweet_count": 15,
+            "reply_count": 10,
+            "quote_count": 3,
+            "impression_count": 9731
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000102",
+          "text": "typescript tip: zod schemas for every tool input",
+          "created_at": "2026-09-05T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 194,
+            "retweet_count": 16,
+            "reply_count": 11,
+            "quote_count": 4,
+            "impression_count": 10462
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000103",
+          "text": "is grok the best model for coding agents?",
+          "created_at": "2026-09-07T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 141,
+            "retweet_count": 17,
+            "reply_count": 12,
+            "quote_count": 2,
+            "impression_count": 11193
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000104",
+          "text": "built a robot arm controller in python this weekend",
+          "created_at": "2026-09-09T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 178,
+            "retweet_count": 18,
+            "reply_count": 13,
+            "quote_count": 3,
+            "impression_count": 11924
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000105",
+          "text": "startup idea: saas for agent observability",
+          "created_at": "2026-09-11T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 125,
+            "retweet_count": 19,
+            "reply_count": 9,
+            "quote_count": 4,
+            "impression_count": 12655
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000106",
+          "text": "gpu prices are finally dropping",
+          "created_at": "2026-09-13T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 162,
+            "retweet_count": 20,
+            "reply_count": 10,
+            "quote_count": 2,
+            "impression_count": 9386
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000107",
+          "text": "cursor + mcp servers is the new dev stack",
+          "created_at": "2026-09-15T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 199,
+            "retweet_count": 14,
+            "reply_count": 11,
+            "quote_count": 3,
+            "impression_count": 10117
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000108",
+          "text": "automation saves me 10 hours a week as a developer",
+          "created_at": "2026-09-17T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 146,
+            "retweet_count": 15,
+            "reply_count": 12,
+            "quote_count": 4,
+            "impression_count": 10848
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000109",
+          "text": "what app should i build next?",
+          "created_at": "2026-09-19T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 183,
+            "retweet_count": 16,
+            "reply_count": 13,
+            "quote_count": 2,
+            "impression_count": 11579
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000110",
+          "text": "code review with ai agents, my workflow",
+          "created_at": "2026-09-21T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 130,
+            "retweet_count": 17,
+            "reply_count": 9,
+            "quote_count": 3,
+            "impression_count": 12310
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000111",
+          "text": "javascript is still everywhere in tech",
+          "created_at": "2026-09-23T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 167,
+            "retweet_count": 18,
+            "reply_count": 10,
+            "quote_count": 4,
+            "impression_count": 9041
+          },
+          "entities": {
+            "urls": []
+          }
+        }
+      ]
+    },
+    "fitfelix": {
+      "profile": {
+        "id": "1002",
+        "name": "Felix Fit",
+        "description": "fitness coach. running, lifting, nutrition.",
+        "location": "London",
+        "verified": false,
+        "public_metrics": {
+          "followers_count": 21000,
+          "following_count": 1500,
+          "tweet_count": 8000
+        }
+      },
+      "posts": [
+        {
+          "id": "1900000000000000200",
+          "text": "morning lifting session done, protein shake time",
+          "created_at": "2026-09-01T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 72,
+            "retweet_count": 8,
+            "reply_count": 9,
+            "quote_count": 2,
+            "impression_count": 3240
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000201",
+          "text": "marathon training week 6: 70km",
+          "created_at": "2026-09-03T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 94,
+            "retweet_count": 9,
+            "reply_count": 10,
+            "quote_count": 3,
+            "impression_count": 3503
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000202",
+          "text": "sleep is the most underrated fitness tool",
+          "created_at": "2026-09-05T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 116,
+            "retweet_count": 10,
+            "reply_count": 11,
+            "quote_count": 4,
+            "impression_count": 3766
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000203",
+          "text": "my gym workout split for beginners",
+          "created_at": "2026-09-07T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 85,
+            "retweet_count": 10,
+            "reply_count": 12,
+            "quote_count": 2,
+            "impression_count": 4029
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000204",
+          "text": "nutrition myths that need to die",
+          "created_at": "2026-09-09T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 107,
+            "retweet_count": 11,
+            "reply_count": 13,
+            "quote_count": 3,
+            "impression_count": 4293
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000205",
+          "text": "yoga for runners, 10 minute routine",
+          "created_at": "2026-09-11T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 75,
+            "retweet_count": 11,
+            "reply_count": 9,
+            "quote_count": 4,
+            "impression_count": 4556
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000206",
+          "text": "health check: resting heart rate down to 48",
+          "created_at": "2026-09-13T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 97,
+            "retweet_count": 12,
+            "reply_count": 10,
+            "quote_count": 2,
+            "impression_count": 3379
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000207",
+          "text": "training in the heat, how do you hydrate?",
+          "created_at": "2026-09-15T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 119,
+            "retweet_count": 8,
+            "reply_count": 11,
+            "quote_count": 3,
+            "impression_count": 3642
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000208",
+          "text": "running shoes review thread",
+          "created_at": "2026-09-17T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 88,
+            "retweet_count": 9,
+            "reply_count": 12,
+            "quote_count": 4,
+            "impression_count": 3905
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000209",
+          "text": "diet tip: eat more fiber",
+          "created_at": "2026-09-19T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 110,
+            "retweet_count": 10,
+            "reply_count": 13,
+            "quote_count": 2,
+            "impression_count": 4168
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000210",
+          "text": "wellness is boring consistency",
+          "created_at": "2026-09-21T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 78,
+            "retweet_count": 10,
+            "reply_count": 9,
+            "quote_count": 3,
+            "impression_count": 4432
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000211",
+          "text": "fitness gear i actually use",
+          "created_at": "2026-09-23T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 100,
+            "retweet_count": 11,
+            "reply_count": 10,
+            "quote_count": 4,
+            "impression_count": 3255
+          },
+          "entities": {
+            "urls": []
+          }
+        }
+      ]
+    },
+    "moneymaya": {
+      "profile": {
+        "id": "1003",
+        "name": "Maya Markets",
+        "description": "investing, stocks and crypto. not financial advice.",
+        "location": "New York",
+        "verified": true,
+        "public_metrics": {
+          "followers_count": 95000,
+          "following_count": 400,
+          "tweet_count": 30000
+        }
+      },
+      "posts": [
+        {
+          "id": "1900000000000000300",
+          "text": "markets opened red, fed decision tomorrow",
+          "created_at": "2026-09-01T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 264,
+            "retweet_count": 31,
+            "reply_count": 9,
+            "quote_count": 2,
+            "impression_count": 43560
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000301",
+          "text": "my dividend portfolio update",
+          "created_at": "2026-09-03T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 345,
+            "retweet_count": 33,
+            "reply_count": 10,
+            "quote_count": 3,
+            "impression_count": 47098
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000302",
+          "text": "bitcoin broke 150k, now what?",
+          "created_at": "2026-09-05T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 427,
+            "retweet_count": 35,
+            "reply_count": 11,
+            "quote_count": 4,
+            "impression_count": 50636
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000303",
+          "text": "investing 101: etf vs stocks",
+          "created_at": "2026-09-07T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 310,
+            "retweet_count": 37,
+            "reply_count": 12,
+            "quote_count": 2,
+            "impression_count": 54174
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000304",
+          "text": "earnings season thread 🧵",
+          "created_at": "2026-09-09T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 392,
+            "retweet_count": 40,
+            "reply_count": 13,
+            "quote_count": 3,
+            "impression_count": 57712
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000305",
+          "text": "inflation print came in hot",
+          "created_at": "2026-09-11T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 275,
+            "retweet_count": 42,
+            "reply_count": 9,
+            "quote_count": 4,
+            "impression_count": 61250
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000306",
+          "text": "trading psychology matters more than strategy",
+          "created_at": "2026-09-13T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 356,
+            "retweet_count": 44,
+            "reply_count": 10,
+            "quote_count": 2,
+            "impression_count": 45428
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000307",
+          "text": "crypto regulation news today",
+          "created_at": "2026-09-15T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 438,
+            "retweet_count": 31,
+            "reply_count": 11,
+            "quote_count": 3,
+            "impression_count": 48966
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000308",
+          "text": "wealth is built slowly",
+          "created_at": "2026-09-17T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 321,
+            "retweet_count": 33,
+            "reply_count": 12,
+            "quote_count": 4,
+            "impression_count": 52504
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000309",
+          "text": "how much cash should you hold?",
+          "created_at": "2026-09-19T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 403,
+            "retweet_count": 35,
+            "reply_count": 13,
+            "quote_count": 2,
+            "impression_count": 56042
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000310",
+          "text": "stock picks for q4",
+          "created_at": "2026-09-21T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 286,
+            "retweet_count": 37,
+            "reply_count": 9,
+            "quote_count": 3,
+            "impression_count": 59580
+          },
+          "entities": {
+            "urls": []
+          }
+        },
+        {
+          "id": "1900000000000000311",
+          "text": "money habits that compound",
+          "created_at": "2026-09-23T15:00:00.000Z",
+          "lang": "en",
+          "public_metrics": {
+            "like_count": 367,
+            "retweet_count": 40,
+            "reply_count": 10,
+            "quote_count": 4,
+            "impression_count": 43758
+          },
+          "entities": {
+            "urls": []
+          }
+        }
+      ]
+    }
+  },
+  "posts": {
+    "1950000000000000001": {
+      "author_id": "1001",
+      "author_username": "devdana",
+      "created_at": "2030-01-01T12:00:00.000Z",
+      "text": "trying the new AgentLens tracer for my coding agents, it finally shows every tool call. agentlens.dev/try #ad",
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/x",
+            "expanded_url": "https://agentlens.dev/try"
+          }
+        ]
+      },
+      "public_metrics": {
+        "like_count": 300,
+        "retweet_count": 20,
+        "reply_count": 15,
+        "quote_count": 3,
+        "impression_count": 15000
+      }
+    },
+    "1950000000000000002": {
+      "author_id": "1001",
+      "author_username": "devdana",
+      "created_at": "2030-01-01T12:00:00.000Z",
+      "text": "trying the new AgentLens tracer for my coding agents, love it. agentlens.dev/try",
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/x",
+            "expanded_url": "https://agentlens.dev/try"
+          }
+        ]
+      },
+      "public_metrics": {
+        "like_count": 300,
+        "retweet_count": 20,
+        "reply_count": 15,
+        "quote_count": 3,
+        "impression_count": 15000
+      }
+    },
+    "1950000000000000003": {
+      "author_id": "1003",
+      "author_username": "moneymaya",
+      "created_at": "2030-01-01T12:00:00.000Z",
+      "text": "AgentLens is great #ad agentlens.dev/try",
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/y",
+            "expanded_url": "https://agentlens.dev/try"
+          }
+        ]
+      },
+      "public_metrics": {
+        "like_count": 1,
+        "retweet_count": 0,
+        "reply_count": 0,
+        "quote_count": 0,
+        "impression_count": 100
+      }
+    }
+  }
+}

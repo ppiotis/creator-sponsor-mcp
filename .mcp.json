@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "creator-sponsor": {
+      "command": "npx",
+      "args": ["-y", "https://github.com/ppiotis/creator-sponsor-mcp/archive/refs/tags/v1.0.0.tar.gz"]
+    }
+  }
+}

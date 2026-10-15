@@ -1,0 +1,23 @@
+{
+  "name": "creator-sponsor-mcp",
+  "version": "1.0.0",
+  "description": "Creator sponsorship marketplace MCP server: analyse X creators, price posts with a transparent formula, match brand briefs, run deals, verify sponsored posts with disclosure checks and keep a payout ledger. Preview-then-confirm writes. Never posts, never moves money.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Paris Piotis",
+  "repository": { "type": "git", "url": "https://github.com/ppiotis/creator-sponsor-mcp" },
+  "homepage": "https://github.com/ppiotis/creator-sponsor-mcp#readme",
+  "keywords": ["mcp", "x", "twitter", "creators", "sponsorship", "influencer", "marketplace", "grok-bot", "cursor-plugin"],
+  "engines": { "node": ">=20" },
+  "bin": { "creator-sponsor-mcp": "dist/stdio.js", "creator-sponsor-mcp-http": "dist/serve-http.js" },
+  "files": ["dist", "skills", "fixtures", ".mcp.json", "plugin.json", ".cursor-plugin", "logo.svg"],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/stdio.js",
+    "start:http": "node dist/serve-http.js",
+    "test": "npm run build && vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": { "@modelcontextprotocol/sdk": "^1.32.1", "zod": "^4.6.7" },
+  "devDependencies": { "@types/node": "^26.6.5", "typescript": "^7.0.2", "vitest": "^5.0.4" }
+}
